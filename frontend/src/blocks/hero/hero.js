@@ -1,3 +1,4 @@
+import "./hero.css";
 export function hero({
     anchor,
     badge,
